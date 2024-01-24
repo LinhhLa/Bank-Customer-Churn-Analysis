@@ -17,19 +17,19 @@ Methodologies
 2. Train-Test Split data
 Split the dataset into training and testing sets to train and evaluate machine learning models. Standardize feature values using StandardScaler to ensure that features are on the same scale.
 
-4. Building and Evaluating Models
+3. Building and Evaluating Models
 * **Logistics Regression**: Simple and interpretable. Can serve as a baseline model
 * **Decision Tree**: Simple and interpretable, and easy to visualize for presenting result
 * **Random Forest**:  Ensemble method, Resistant to overfitting
 * **Support Vector Machine**: Able to find complex decision boundaries and able to handle non-linear relationships
 
-5. Model processing:
+4. Model processing:
 * Run 4 models on original dataset and rebalanced data set (with SMOTE)
 * Each model get optimized to reach highest performance
 ** Hyperparameter tuning is done for Decision tree, Random Forest and SVM
 ** Regularization is done for Logistic Regression
 * Best model is selected based on the combination of metrics including precision, recall, F1-score and accuracy
 
-6. Model Evaluation
+5. Model Evaluation
 Evaluate the models by comparing confusion matrices, ROC curves, and AUC scores and focus on recall as it measures the ability to predict true positives (churn cases).
 
