@@ -1,4 +1,4 @@
-**Objective**
+# Objective
 
 The purpose of this code and analysis is to identify and predict customer churn for a bank. Churn refers to customers discontinuing their services with a company. 
 * With the help of the model the bank and their marketing team can identify customers in the risk of churning and focus their marketing efforts towards these customer instead of marketing for all.
@@ -7,7 +7,7 @@ The purpose of this code and analysis is to identify and predict customer churn 
 * This will also help the bank to use their marketing budget in the most efficient manner 
 
 
-**Methodologies**
+# Methodologies
 
 **1. Descriptive Analysis and Exploratory Data Analysis**
 * Conduct descriptive analysis to understand the basic statistics of the dataset, including mean, standard deviation, minimum, and maximum values.
