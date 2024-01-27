@@ -31,6 +31,6 @@ Split the dataset into training and testing sets to train and evaluate machine l
 *   Regularization is done for Logistic Regression
 * Best model is selected based on the combination of metrics including precision, recall, F1-score and accuracy
 
-**5. Model Evaluatio**:
+**5. Model Evaluation**:
 Evaluate the models by comparing confusion matrices, ROC curves, and AUC scores and focus on recall as it measures the ability to predict true positives (churn cases).
 
